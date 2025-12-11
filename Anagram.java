@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Anagram {
+//hi
     static final int CHAR=256;
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
