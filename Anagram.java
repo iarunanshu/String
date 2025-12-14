@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-//hi
+
 public class Anagram {
     static final int CHAR=256;
     public static void main(String[] args) {
